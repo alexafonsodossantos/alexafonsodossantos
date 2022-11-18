@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexafonsodossantos
-- 👀 I’m interested in backend web development using Python
-- 🌱 I’m currently learning Django and Django REST Framework
+- 👀 I’m interested in backend web development using Python or PHP.
+- 🌱 I’m currently learning PHP, Kotlin, Django and Django REST Framework
 - 💞️ I’m looking to collaborate on Backend development and REST API Development
 
 - MY PROJECTS - 
