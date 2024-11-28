@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Desenvolvedor Full Stack <strong>Python / Javascript / React</strong>.<br>
-  📖 Criando soluções para educação @amadomaker
+  📖 Co-Founder, Lead Developer @Nuddig
 </p>
 
 <p align="left">
