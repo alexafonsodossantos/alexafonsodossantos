@@ -28,4 +28,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-https://www.codewars.com/users/alexafonsodossantos/badges/large
+<img src="https://www.codewars.com/users/alexafonsodossantos/badges/large">
+
